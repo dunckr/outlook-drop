@@ -2,7 +2,7 @@
 
 Upload Outlook file attachments to your DropBox account. Then you can share the download link.
 
-![Outlook 2010 Attachment Dropbox](https://github.com/duncky/outlook-drop/raw/master/sample.png)
+![Outlook 2010 Attachment Dropbox](https://github.com/dunckr/outlook-drop/raw/master/sample.png)
 
 
 [Using the Spring.NET Social Dropbox](https://github.com/SpringSource/spring-net-social-dropbox)
